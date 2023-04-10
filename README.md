@@ -7,3 +7,4 @@ Version 0.1.0 will be hopefully be released in coming weeks.
 - Add standard license in Cargo.toml
 - Extract library from other project.
 - Add docs page.
+- Github rule test.
