@@ -1,6 +1,6 @@
 [package]
 authors = ["Marcus Hanson <marcerhans@gmail.com>"]
-description = "Library for managing value transitions programatically over time in Rust."
+description = "Manage interpolated value transitions programatically over time in Rust."
 edition = "2021"
 homepage = "https://github.com/marcerhans/transitions"
 keywords = ["animation", "interpolation", "transition"]
