@@ -1,0 +1,14 @@
+[package]
+authors = ["Marcus Hanson <marcerhans@gmail.com>"]
+description = "Library for managing value transitions programatically over time in Rust."
+edition = "2021"
+homepage = "https://github.com/marcerhans/transitions"
+keywords = ["animation", "interpolation", "transition"]
+license-file = "LICENSE"
+name = "transitions"
+publish = true
+readme = "README.md"
+repository = "https://github.com/marcerhans/transitions"
+version = "0.0.0"
+
+[dependencies]
